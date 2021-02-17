@@ -7,5 +7,5 @@ Upload all the code on your github repository so that we can track your progress
 
 Best wishes
 
-Sharayu & Praffull
+Sharayu & Praffull (Training Team)
 
